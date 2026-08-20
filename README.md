@@ -153,6 +153,31 @@ Fbric Inspection process has been automated by AGV transportation and User inter
   <img src="docs/image/inspection_worker_operating.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>  
 </p>
 
+
+### 🟥 Panel Replacement
+Fbric Inspection process has been automated by AGV transportation and User interface based working procedure 
+<p align="center">
+  <img src="docs/image/inspection_workstation.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>
+  <img src="docs/image/inspection_worker_operating.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>  
+</p>
+
+
+### 🟥 Subcon and Value Added Process
+Fbric Inspection process has been automated by AGV transportation and User interface based working procedure 
+<p align="center">
+  <img src="docs/image/inspection_workstation.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>
+  <img src="docs/image/inspection_worker_operating.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>  
+</p>
+
+
+### 🟥 Panel Supermarket
+Fbric Inspection process has been automated by AGV transportation and User interface based working procedure 
+<p align="center">
+  <img src="docs/image/inspection_workstation.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>
+  <img src="docs/image/inspection_worker_operating.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>  
+</p>
+
+
 ## ⚙️ Autonomous Mobile Robots
 
 ### 🟦 AGV (Automated Guided Vehicle) System Configurtion
