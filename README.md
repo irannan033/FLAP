@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 Overview
+## 📋 Overview
 
 The **FLAP Project** (Finishing Center, Logistic Center, Assembly Center, Parts Center) is a flagship **Industry 4.0 initiative** by **Crystal International Group Ltd.**, one of the world’s leading **Ready-Made Garments (RMG)** manufacturers.  
 It integrates **robotics**, **industrial automation**, and **digital manufacturing systems** into a unified, intelligent production ecosystem.
@@ -47,21 +47,21 @@ Crystal International Group Ltd.
 
 ---
 
-## Technologies
+## 🛠️ Technologies & Tools
 
 - Hikrobot AGV
-- RCS
+- RCS, MES, WCS
 - PLC, Industrial Controller
-- PostgreSQL
-- Python
-- AutoCAD
-- Power BI
-- IoT Device
+- PostgreSQL for Database
+- Python for Automation Scripting
+- AutoCAD for Layout
+- Power BI for Monitoring Dashboard
+- RFID Reader, IO Controller, IoT Device
 
 ---
 
 
-## System Architecture
+## 🏗️ System Architecture
 
                 ┌──────────────┐
                 │  WMS / MES   │
@@ -246,7 +246,26 @@ This project demonstrates a **real-world Industry 4.0 architecture** with strong
 
 ---
 
-## ⚙️ Disclaimer
+## 📸 Project Gallery
+
+---
+
+
+## 🧪 Testing & Commissioning
+
+---
+
+
+## 🚀 Future Improvements
+
+- 🤖 AI-powered camera system for automated quality inspection and defect detection.
+- 🦾 Robotic arm for automated fabric placement.
+- ♻️ Smart garbage-management system for collecting released panels during panel replacement.
+
+---
+
+
+## ⚠️ Disclaimer
 
 This repository contains a sanitized representation of a professional industrial automation project.
 Proprietary company information, production data, network configurations and confidential materials have been excluded.
