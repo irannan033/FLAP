@@ -117,7 +117,7 @@ Physical Infrastructure
 
 **Reference Figures:**
 <p align="center">
-  <img src="docs/image/system_process_flow.png" alt="System Flow" width="75%" style="margin:25px;"/>
+  <img src="docs/images/system_process_flow.png" alt="System Flow" width="75%" style="margin:25px;"/>
 </p>
 
 ---
@@ -183,8 +183,8 @@ Fbric Inspection process has been automated by AGV transportation and User inter
 ### 🟦 AGV (Automated Guided Vehicle) System Configurtion
 AGV System configuration by RCS (Robotic Control System) and Fleet Management
 <p align="center"style=align-items: center;">
-  <img src="docs/image/rcs.PNG" alt="Overall Flow" width="40%" style="margin:25px;"/>
-  <img src="docs/image/monitor_client.PNG" alt="Overall Flow" width="40%" style="margin:25px;"/>  
+  <img src="docs/images/rcs.PNG" alt="Overall Flow" width="40%" style="margin:25px;"/>
+  <img src="docs/images/monitor_client.PNG" alt="Overall Flow" width="40%" style="margin:25px;"/>  
 </p>
 
 
