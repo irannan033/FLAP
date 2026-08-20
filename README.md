@@ -127,12 +127,12 @@ Physical Infrastructure
 ### 🟦 Overall Process Flow
 Overall flow of process how material and informations transferred processwise. 
 
-1️⃣ Relaxation – AGV brings trolley to workstation → after unrolling, it returns to WIP
-2️⃣ Spreading – Trolley automatically positions behind the table → moves after the lay is completed
-3️⃣ Panel Loading – Post-cutting, stickered/non-stickered cakes go directly to CPI WIP by AGV
-4️⃣ Central CPI – If defects → sent to Recut WIP, else → directly to Supermarket
-5️⃣ Central Recut – After recut, moves to Value Added Process (Heat Seal, Pad Print, Embroidery, Print)
-6️⃣ Supermarket – From VAP → supermarket → ready for sewing input
+- 1️⃣ Relaxation – AGV brings trolley to workstation → after unrolling, it returns to WIP
+- 2️⃣ Spreading – Trolley automatically positions behind the table → moves after the lay is completed
+- 3️⃣ Panel Loading – Post-cutting, stickered/non-stickered cakes go directly to CPI WIP by AGV
+- 4️⃣ Central CPI – If defects → sent to Recut WIP, else → directly to Supermarket
+- 5️⃣ Central Recut – After recut, moves to Value Added Process (Heat Seal, Pad Print, Embroidery, Print)
+- 6️⃣ Supermarket – From VAP → supermarket → ready for sewing input
 
 <p align="center">
   <img src="docs/image/overall_process_flow.PNG" alt="Overall Flow" width="75%" style="margin:25px;"/>  
