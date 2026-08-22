@@ -194,7 +194,10 @@ AGV System configuration by RCS (Robotic Control System) and Fleet Management
   <img src="docs/images/rcs.PNG" alt="Overall Flow" width="40%" style="margin:25px;"/>
   <img src="docs/images/monitor_client.PNG" alt="Overall Flow" width="40%" style="margin:25px;"/>  
 </p>
-
+<p align="center">
+  <img src="docs/images/Laser.png" alt="Laser" width="30%" style="margin:25px;"/>
+  <img src="docs/images/2D laser.png" alt="2D laser" width="30%" style="margin:25px;"/>  
+</p>
 
 ### 🟧 AGV Operation
 Autonomous robots perform inter-process material transport and staging.  
@@ -231,6 +234,87 @@ All systems communicate through **TCP/IP** and **OPC-UA**, enabling full interop
 | **CICS Dashboard** | Unified monitoring and analytics across all subsystems |
 
 ---
+
+## 📊 Production Process Monitoring Dashboard
+
+**Fabric Relaxation Status Dashboard**
+
+Designed a Fabric Relaxation WIP Monitoring Dashboard to ensure proper fabric relaxation compliance before cutting by PowerBI. The dashboard tracks real-time WIP status across locations, trolleys, and compartments, including full and empty conditions. It provides age-wise and SO-wise fabric relaxation analysis, total relaxed fabric yardage, and average WIP age. 
+
+What it monitors:
+
+- WIP location, trolley, and compartment status
+- Full vs empty WIP distribution
+- Total relaxed fabric yards and per-trolley load
+- Age-wise relaxation status (days)
+- SO-wise maximum relaxation age
+- Average WIP age tracking
+
+<p align="center">
+  <img src="docs/images/Relax.png" alt="Relax" width="40%" style="margin:25px;"/>
+</p>
+
+**Cutting Performance Monitoring Dashboard**
+
+Developed a comprehensive Cutting Performance Monitoring Dashboard to track real-time cutting operations across tables and shifts. The dashboard provides table-wise performance comparison, top performer ranking, average lay analysis, and abnormal task detection. 
+
+ What it monitors:
+ 
+- Daily cutting plan vs actual achievement
+- Body and trims cutting progress
+- Table-wise cutting performance and ranking
+- Cutting historical trends (day/night shifts)
+- Abnormal task alerts (e.g., fabric shortage, no marker)
+- Average lay and task distribution
+
+<p align="center">
+  <img src="docs/images/Cutting.png" alt="Cutting" width="40%" style="margin:25px;"/>  
+</p>
+
+**Non Productive Time (NPT) Monitoring Dashboard**
+
+Built a Cutting NPT Monitoring Dashboard to analyze productivity loss and downtime causes across cutting operations. The dashboard compares productive time versus NPT, analyzes NPT by shift, table, department, and date range, and tracks historical trends over time. It highlights high-loss areas and responsible departments, supporting root cause analysis and continuous improvement initiatives aimed at reducing non-productive time.
+ 
+ What it monitors:
+ 
+- Productive time vs non-productive time (hours)
+- Shift-wise NPT comparison (day vs night)
+- Table-wise NPT percentage
+- Department-wise NPT contribution
+- NPT trends over recent days
+- Date-based filtering for detailed analysis
+
+<p align="center">
+  <img src="docs/images/NPT.png" alt="NPT" width="40%" style="margin:25px;"/>
+</p>
+
+– Tracks inventory quantity across different VAP processes.
+– Provides an overall view of WIP quantity currently in the VAP section.
+– Monitors the number of trolleys and WIP distribution by process.
+– Identifies how long materials have been waiting at each process.
+– Monitors WIP distribution across different seasons/orders.
+– Provides detailed WIP quantity tracking by manufacturing order (MO).
+– Helps identify processes with high WIP accumulation and aging materials.
+
+<p align="center">
+  <img src="docs/images/VAP.png" alt="VAP" width="40%" style="margin:25px;"/>  
+</p>
+
+**Access Point Network Monitoring System**
+
+Developed a Python-based remote network monitoring system to continuously monitor Access Points (APs) and network racks in real time. The system performs automated health checks, detects connectivity issues, and triggers alerts when abnormalities are identified. It provides live status visualization, event logging, and alarm notifications, enabling faster troubleshooting and reduced network downtime. 
+
+🔹 Technologies Used
+- Python
+- Network protocols (ICMP / TCP-IP)
+- GUI & background threading
+
+<p align="center">
+  <img src="docs/images/AP.png" alt="AP" width="40%" style="margin:25px;"/>  
+</p>
+
+---
+
 
 ## 📊 Project Outcomes
 
