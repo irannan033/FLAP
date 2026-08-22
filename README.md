@@ -258,7 +258,7 @@ What it monitors:
 - Average WIP age tracking
 
 <p align="center">
-  <img src="docs/images/Relax.png" alt="Relax" width="75%" style="margin:25px;"/>
+  <img src="docs/images/Relax.png" alt="Relax" width="80%" style="margin:25px;"/>
 </p>
 
 **Cutting Performance Monitoring Dashboard**
@@ -275,7 +275,7 @@ Developed a comprehensive Cutting Performance Monitoring Dashboard to track real
 - Average lay and task distribution
 
 <p align="center">
-  <img src="docs/images/Cutting.png" alt="Cutting" width="75%" style="margin:25px;"/>  
+  <img src="docs/images/Cutting.png" alt="Cutting" width="80%" style="margin:25px;"/>  
 </p>
 
 **Non Productive Time (NPT) Monitoring Dashboard**
@@ -292,7 +292,7 @@ Built a Cutting NPT Monitoring Dashboard to analyze productivity loss and downti
 - Date-based filtering for detailed analysis
 
 <p align="center">
-  <img src="docs/images/NPT.png" alt="NPT" width="75%" style="margin:25px;"/>
+  <img src="docs/images/NPT.png" alt="NPT" width="80%" style="margin:25px;"/>
 </p>
 
 – Tracks inventory quantity across different VAP processes.
@@ -304,7 +304,7 @@ Built a Cutting NPT Monitoring Dashboard to analyze productivity loss and downti
 – Helps identify processes with high WIP accumulation and aging materials.
 
 <p align="center">
-  <img src="docs/images/VAP.png" alt="VAP" width="75%" style="margin:25px;"/>  
+  <img src="docs/images/VAP.png" alt="VAP" width="80%" style="margin:25px;"/>  
 </p>
 
 **Access Point Network Monitoring System**
@@ -317,7 +317,7 @@ Developed a Python-based remote network monitoring system to continuously monito
 - GUI & background threading
 
 <p align="center">
-  <img src="docs/images/AP.JPG" alt="AP" width="75%" style="margin:25px;"/>  
+  <img src="docs/images/AP.JPG" alt="AP" width="80%" style="margin:25px;"/>  
 </p>
 
 ---
