@@ -89,7 +89,7 @@ Crystal International Group Ltd.
 ## 🏗️ System Architecture
 
 <p align="center">
-  <img src="docs/image/hikrobot_platform_architecture.jpg" alt="System Flow" width="75%" style="margin:25px;"/>
+  <img src="docs/images/hikrobot_platform_architecture.jpg" alt="System Flow" width="75%" style="margin:25px;"/>
 </p>
 
 ### 🔹 Multilayer Control Architecture
@@ -135,54 +135,54 @@ Overall flow of process how material and informations transferred processwise.
 - 6️⃣ Supermarket – From VAP → supermarket → ready for sewing input
 
 <p align="center">
-  <img src="docs/image/overall_process_flow.PNG" alt="Overall Flow" width="75%" style="margin:25px;"/>  
+  <img src="docs/images/overall_process_flow.PNG" alt="Overall Flow" width="75%" style="margin:25px;"/>  
 </p>
 
 ### 🟨 Relaxation
 Automated relaxation process ensuring consistent fabric handling before cutting.  
 <p align="center">
-    <img src="docs/image/relaxation_process_flow.PNG" alt="relaxation_process_flow" width="45%">
-    <img src="docs/image/relax_operator_working2.jpg" alt="relax_operator_working2" width="40%">
+    <img src="docs/images/relaxation_process_flow.PNG" alt="relaxation_process_flow" width="45%">
+    <img src="docs/images/relax_operator_working2.jpg" alt="relax_operator_working2" width="40%">
 </p>
 
 
 ### 🟩 Cutting & Spreading
 Automated fabric spreading and cutting managed by the CICS system.  
 <p align="center">
-  <img src="docs/image/cutting_task_allocation_as_per_CICS.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>
-  <img src="docs/image/spreading_process_user_interface.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>  
+  <img src="docs/images/cutting_task_allocation_as_per_CICS.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>
+  <img src="docs/images/spreading_process_user_interface.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>  
 </p>
 
 
 ### 🟥 Inspection Zone
 Fbric Inspection process has been automated by AGV transportation and User interface based working procedure 
 <p align="center">
-  <img src="docs/image/inspection_workstation.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>
-  <img src="docs/image/inspection_worker_operating.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>  
+  <img src="docs/images/inspection_workstation.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>
+  <img src="docs/images/inspection_worker_operating.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>  
 </p>
 
 
 ### 🟥 Panel Replacement
 Fbric Inspection process has been automated by AGV transportation and User interface based working procedure 
 <p align="center">
-  <img src="docs/image/inspection_workstation.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>
-  <img src="docs/image/inspection_worker_operating.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>  
+  <img src="docs/images/inspection_workstation.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>
+  <img src="docs/images/inspection_worker_operating.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>  
 </p>
 
 
 ### 🟥 Subcon and Value Added Process
 Fbric Inspection process has been automated by AGV transportation and User interface based working procedure 
 <p align="center">
-  <img src="docs/image/inspection_workstation.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>
-  <img src="docs/image/inspection_worker_operating.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>  
+  <img src="docs/images/inspection_workstation.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>
+  <img src="docs/images/inspection_worker_operating.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>  
 </p>
 
 
 ### 🟥 Panel Supermarket
 Fbric Inspection process has been automated by AGV transportation and User interface based working procedure 
 <p align="center">
-  <img src="docs/image/inspection_workstation.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>
-  <img src="docs/image/inspection_worker_operating.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>  
+  <img src="docs/images/inspection_workstation.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>
+  <img src="docs/images/inspection_worker_operating.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>  
 </p>
 
 
@@ -199,8 +199,8 @@ AGV System configuration by RCS (Robotic Control System) and Fleet Management
 ### 🟧 AGV Operation
 Autonomous robots perform inter-process material transport and staging.  
 <p align="center">
-  <img src="docs/image/agv_operation.jpg" alt="Overall Flow" width="30%" style="margin:25px;"/>
-  <img src="docs/image/robot_arm_operation.jpg" alt="Overall Flow" width="30%" style="margin:25px;"/>  
+  <img src="docs/images/agv_operation.jpg" alt="Overall Flow" width="30%" style="margin:25px;"/>
+  <img src="docs/images/robot_arm_operation.jpg" alt="Overall Flow" width="30%" style="margin:25px;"/>  
 </p>
 
 ---
