@@ -28,7 +28,7 @@ After successful implementation in China, FLAP demonstrated:
 **Amigo Bangladesh Ltd.**, a subsidiary of Crystal Group, is the first facility in Bangladesh to implement this system, representing a major leap toward **smart manufacturing transformation** in the textile industry.
 
 <p align="center">
-  <img src="docs/images/agv.png" alt="agv" width="75%" style="margin:25px;"/>
+  <img src="docs/images/agv.png" alt="agv" width="50%" style="margin:25px;"/>
 </p>
 
 ---
@@ -199,15 +199,15 @@ AGV System configuration by RCS (Robotic Control System) and Fleet Management
   <img src="docs/images/monitor_client.PNG" alt="Overall Flow" width="40%" style="margin:25px;"/>  
 </p>
 <p align="center">
-  <img src="docs/images/Laser.png" alt="Laser" width="30%" style="margin:25px;"/>
-  <img src="docs/images/2D laser.png" alt="2D laser" width="30%" style="margin:25px;"/>  
+  <img src="docs/images/Laser.png" alt="Laser" width="40%" style="margin:25px;"/>
+  <img src="docs/images/2D laser.png" alt="2D laser" width="50%" style="margin:25px;"/>  
 </p>
 
 ### 🟧 AGV Operation
 Autonomous robots perform inter-process material transport and staging.  
 <p align="center">
-  <img src="docs/images/agv_operation.jpg" alt="Overall Flow" width="30%" style="margin:25px;"/>
-  <img src="docs/images/robot_arm_operation.jpg" alt="Overall Flow" width="30%" style="margin:25px;"/>  
+  <img src="docs/images/agv_operation.jpg" alt="agv_operation" width="30%" style="margin:25px;"/>
+  <img src="docs/images/robot_arm_operation.jpg" alt="robot_arm_operation" width="30%" style="margin:25px;"/>  
 </p>
 
 ---
@@ -255,7 +255,7 @@ What it monitors:
 - Average WIP age tracking
 
 <p align="center">
-  <img src="docs/images/Relax.png" alt="Relax" width="40%" style="margin:25px;"/>
+  <img src="docs/images/Relax.png" alt="Relax" width="75%" style="margin:25px;"/>
 </p>
 
 **Cutting Performance Monitoring Dashboard**
@@ -272,7 +272,7 @@ Developed a comprehensive Cutting Performance Monitoring Dashboard to track real
 - Average lay and task distribution
 
 <p align="center">
-  <img src="docs/images/Cutting.png" alt="Cutting" width="40%" style="margin:25px;"/>  
+  <img src="docs/images/Cutting.png" alt="Cutting" width="75%" style="margin:25px;"/>  
 </p>
 
 **Non Productive Time (NPT) Monitoring Dashboard**
@@ -289,7 +289,7 @@ Built a Cutting NPT Monitoring Dashboard to analyze productivity loss and downti
 - Date-based filtering for detailed analysis
 
 <p align="center">
-  <img src="docs/images/NPT.png" alt="NPT" width="40%" style="margin:25px;"/>
+  <img src="docs/images/NPT.png" alt="NPT" width="75%" style="margin:25px;"/>
 </p>
 
 – Tracks inventory quantity across different VAP processes.
@@ -301,7 +301,7 @@ Built a Cutting NPT Monitoring Dashboard to analyze productivity loss and downti
 – Helps identify processes with high WIP accumulation and aging materials.
 
 <p align="center">
-  <img src="docs/images/VAP.png" alt="VAP" width="40%" style="margin:25px;"/>  
+  <img src="docs/images/VAP.png" alt="VAP" width="75%" style="margin:25px;"/>  
 </p>
 
 **Access Point Network Monitoring System**
@@ -314,7 +314,7 @@ Developed a Python-based remote network monitoring system to continuously monito
 - GUI & background threading
 
 <p align="center">
-  <img src="docs/images/AP.png" alt="AP" width="40%" style="margin:25px;"/>  
+  <img src="docs/images/AP.png" alt="AP" width="75%" style="margin:25px;"/>  
 </p>
 
 ---
