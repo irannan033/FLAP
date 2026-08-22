@@ -124,7 +124,7 @@ Physical Infrastructure
 
 ## ⚙️ Process Flow Breakdown
 
-### 🟦 Overall Process Flow
+### 🟫 Overall Process Flow
 Overall flow of process how material and informations transferred processwise. 
 
 - 1️⃣ Relaxation – AGV brings trolley to workstation → after unrolling, it returns to WIP
@@ -162,7 +162,7 @@ Fbric Inspection process has been automated by AGV transportation and User inter
 </p>
 
 
-### 🟥 Panel Replacement
+### 🟦 Panel Replacement
 Fbric Inspection process has been automated by AGV transportation and User interface based working procedure 
 <p align="center">
   <img src="docs/images/inspection_workstation.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>
@@ -170,7 +170,7 @@ Fbric Inspection process has been automated by AGV transportation and User inter
 </p>
 
 
-### 🟥 Subcon and Value Added Process
+### 🟧 Subcon and Value Added Process
 Fbric Inspection process has been automated by AGV transportation and User interface based working procedure 
 <p align="center">
   <img src="docs/images/inspection_workstation.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>
@@ -178,7 +178,7 @@ Fbric Inspection process has been automated by AGV transportation and User inter
 </p>
 
 
-### 🟥 Panel Supermarket
+### 🟪 Panel Supermarket
 Fbric Inspection process has been automated by AGV transportation and User interface based working procedure 
 <p align="center">
   <img src="docs/images/inspection_workstation.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>
