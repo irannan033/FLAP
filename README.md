@@ -28,7 +28,7 @@ After successful implementation in China, FLAP demonstrated:
 **Amigo Bangladesh Ltd.**, a subsidiary of Crystal Group, is the first facility in Bangladesh to implement this system, representing a major leap toward **smart manufacturing transformation** in the textile industry.
 
 <p align="center">
-  <img src="docs/images/agv.png" alt="agv" width="50%" style="margin:25px;"/>
+  <img src="docs/images/Future Manufacturing Model.png" alt="Future Manufacturing Model" width="75%" style="margin:25px;"/>
 </p>
 
 ---
@@ -62,6 +62,9 @@ Crystal International Group Ltd.
 - Power BI for Monitoring Dashboard
 - RFID Reader, IO Controller, IoT Device
 
+<p align="center">
+  <img src="docs/images/agv.png" alt="agv" width="75%" style="margin:25px;"/>
+</p>
 ---
 
 
