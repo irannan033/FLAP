@@ -314,7 +314,7 @@ Developed a Python-based remote network monitoring system to continuously monito
 - GUI & background threading
 
 <p align="center">
-  <img src="docs/images/AP.jpg" alt="AP" width="75%" style="margin:25px;"/>  
+  <img src="docs/images/AP.JPG" alt="AP" width="75%" style="margin:25px;"/>  
 </p>
 
 ---
