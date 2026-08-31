@@ -30,7 +30,6 @@ After successful implementation in China, FLAP demonstrated:
 <p align="center">
   <img src="docs/images/Future Manufacturing Model.png" alt="Future Manufacturing Model" width="80%" style="margin:25px;"/>
 </p>
-
 ---
 
 ## 👨‍🔧 Author & Role
