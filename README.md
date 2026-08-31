@@ -218,7 +218,7 @@ Autonomous robots perform inter-process material transport and staging.
 ### 🟧 Standard Mapping
 Autonomous robots perform inter-process material transport and staging.  
 <p align="center">
-  <img src="docs/images/Standard Mapping.JPG" alt="Standard Mapping" width="70%" style="margin:25px;"/>
+  <img src="docs/images/Standard Mapping.JPG" alt="Standard Mapping" width="85%" style="margin:25px;"/>
   </p>
 <p align="center">
   <img src="docs/images/Laser Config.png" alt="Laser Config" width="45%" style="margin:25px;"/>  
