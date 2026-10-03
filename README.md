@@ -171,8 +171,8 @@ Fbric Inspection process has been automated by AGV transportation and User inter
 ### 🟦 Panel Replacement
 Fbric Inspection process has been automated by AGV transportation and User interface based working procedure 
 <p align="center">
-  <img src="docs/images/inspection_workstation.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>
-  <img src="docs/images/inspection_worker_operating.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>  
+  <img src="docs/images/Recut.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>
+  <img src="docs/images/Recut2.jpg" alt="Overall Flow" width="40%" style="margin:25px;"/>  
 </p>
 
 
